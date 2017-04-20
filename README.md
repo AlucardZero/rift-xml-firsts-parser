@@ -1,3 +1,7 @@
+# MOVED - UPDATE YOUR LINKS
+
+https://github.com/chennin
+
 ## RIFT Shard First parser
 
 Takes the data dumps from http://webcdn.triongames.com/addons/assets/
